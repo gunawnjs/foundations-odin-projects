@@ -14,4 +14,4 @@ This is all about practicing using these different methods and getting the synta
 - [x] ~~button: an orange background and a font size of 18px (inline).~~
 
 ## Desired Outcome
-![picture alt](img/desired-outcome01.png)
+![picture alt](https://github.com/gunawnjs/foundations-odin-projects/blob/main/01-css-methods/img/desired-outcome01.png)

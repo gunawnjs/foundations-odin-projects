@@ -13,4 +13,4 @@ The main focus here is to being able to add the attributes and use the correct s
 - [x] ~~__The fourth element__: a light green background, a font size of 24px, and bold.~~
 
 ## Desired Outcome
-![picture alt](img/desired-outcome.png.png)
+![picture alt](https://github.com/gunawnjs/foundations-odin-projects/blob/main/02-class-id-selectors/img/desired-outcome.png)
