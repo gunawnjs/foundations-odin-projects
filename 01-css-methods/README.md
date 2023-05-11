@@ -12,3 +12,6 @@ This is all about practicing using these different methods and getting the synta
 - [x] ~~div: a red background, white text, a font size of 32px, center aligned, and bold (external css file).~~
 - [x] ~~p: a green background, white text, and a font size of 18px (internal).~~
 - [x] ~~button: an orange background and a font size of 18px (inline).~~
+
+## Desired Outcome
+![picture alt](img/desired-outcome01.png)

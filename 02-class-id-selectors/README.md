@@ -11,3 +11,6 @@ The main focus here is to being able to add the attributes and use the correct s
 - [x] ~~__The third element__: in addition to the styles for all odd numbered elements, add a font size of 24px.~~
 
 - [x] ~~__The fourth element__: a light green background, a font size of 24px, and bold.~~
+
+## Desired Outcome
+![picture alt](img/desired-outcome.png.png)
