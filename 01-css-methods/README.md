@@ -9,9 +9,9 @@ In this exercise, I'm learning about adding CSS to an HTML file using all three 
 This is all about practicing using these different methods and getting the syntax right.
 
 ## Todo List
-- [x] ~~div: a red background, white text, a font size of 32px, center aligned, and bold (external css file).~~
-- [x] ~~p: a green background, white text, and a font size of 18px (internal).~~
-- [x] ~~button: an orange background and a font size of 18px (inline).~~
+- [x] div: a red background, white text, a font size of 32px, center aligned, and bold (external css file).
+- [x] p: a green background, white text, and a font size of 18px (internal).
+- [x] button: an orange background and a font size of 18px (inline).
 
 ## Desired Outcome
 ![picture alt](https://github.com/gunawnjs/foundations-odin-projects/blob/main/01-css-methods/img/desired-outcome01.png)
