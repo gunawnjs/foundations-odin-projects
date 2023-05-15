@@ -1,0 +1,13 @@
+/* 
+    Chaining Selectors aturan penulisannya seperti ini 
+    *(tidak dikasih spasi).
+*/
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
