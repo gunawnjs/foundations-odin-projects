@@ -1,4 +1,4 @@
-# Descendant Combinator
+# Descendant Combinator *(White Space)
 The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that aren't descendants of that element unstyled.
 
 The properties i need to add:
